@@ -1,5 +1,10 @@
 // for (initialExpression; condition; updateExpression) {
     // statements}
+
+A for loop is used when you know how many times you need to repeat a certain block of code. It takes three statements.
+* Initialization statement
+* Condition Statement
+* Increment statement.
     
 // first example
 
